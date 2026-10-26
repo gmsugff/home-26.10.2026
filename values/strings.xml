@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SumCalculator</string>
+    <string name="title_calculator">Калькулятор</string>
+    <string name="hint_first_number">Первое число</string>
+    <string name="hint_second_number">Второе число</string>
+    <string name="result_placeholder">Результат появится здесь</string>
+    <string name="op_add">+</string>
+    <string name="op_subtract">–</string>
+    <string name="op_multiply">×</string>
+    <string name="op_divide">÷</string>
+    <string name="button_clear">Очистить</string>
+    <string name="button_swap">⇄</string>
+    <string name="error_divide_by_zero">Деление на ноль невозможно</string>
+    <string name="error_invalid_input">Введите корректные числа</string>
+    <string name="result_format">%1$s %2$s %3$s = %4$s</string>
+</resources>
